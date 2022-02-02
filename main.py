@@ -1,7 +1,8 @@
 import os
 
 def input_path():
-    pass
+    path = str(input('Введите путь: '))
+    dictionary(path)
 
 def dictionary():
     pass
